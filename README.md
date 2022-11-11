@@ -1,2 +1,2 @@
 # ogl-release
-OGL Release
+OGL Token Contract
